@@ -121,7 +121,7 @@ body {
 .sobremim {
     padding: 8% 15%;
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: space-between;
     gap: 5.125rem;
 }
@@ -140,6 +140,11 @@ body {
 .sobremim__texto {
     font-family: var(--fonte-2);
     font-size: 1.5rem;
+    color: var(--cor-2);
+}
+li {
+    font-family: var(--fonte-2);
+    font-size: 1rem;
     color: var(--cor-2);
 }
 @media(max-width: 1200px){
