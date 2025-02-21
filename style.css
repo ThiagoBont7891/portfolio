@@ -36,7 +36,7 @@ body {
 .apresentacao {
     padding: 5% 15%;
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: space-between;
     gap: 5.125rem;
 }
